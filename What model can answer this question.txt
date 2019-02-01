@@ -1,0 +1,26 @@
+﻿1.Predict the running times of prospective Olympic sprinters using data from the last 20 Olympics.
+Regression problem
+
+2.You have more features (columns) than rows in your dataset.
+Reduce number of features by using PCA or if there is little correlation between the features use Lasso.
+
+3.Identify the most important characteristic predicting likelihood of being jailed before age 20.
+Naive Bayes.
+
+4.Implement a filter to “highlight” emails that might be important to the recipient.
+Naive Bayes.
+
+5.You have 1000+ features.
+Reduce number of features by using PCA or if there is little correlation between the features use Lasso.
+
+6.Predict whether someone who adds items to their cart on a website will purchase the items.
+Classification
+
+7.Your dataset dimensions are 982400 x 500.
+Try to reduce feature complexity using PCA or correlation.
+
+8.Identify faces in an image.
+This data will be very complex, not human interpretable, probably a neuronal net would be good.
+
+9.Predict which of three flavors of ice cream will be most popular with boys vs girls.
+Classification.
